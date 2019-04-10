@@ -1,5 +1,5 @@
 /**
- * 这是注释，开开
+ * 这是注释，凯凯
  */
 import Vue from 'vue';
 import Vuex from 'vuex';
