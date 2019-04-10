@@ -1,6 +1,3 @@
-/**
- * 这是全局共享的数据状态管理
- */
 import Vue from 'vue';
 import Vuex from 'vuex';
 Vue.use(Vuex);
