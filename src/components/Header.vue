@@ -5,7 +5,7 @@
     <div class="container clearfix">
       <!-- logo -->
       <div class="float-left logo">
-      <router-link to="/">网易云音乐</router-link>
+      <router-link to="/">西柚音乐</router-link>
       </div>
       <!-- nav -->
       <ul class="float-left clearfix nav">
